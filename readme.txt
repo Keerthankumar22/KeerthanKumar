@@ -7,7 +7,7 @@ Roll No : 217CS004
 ---------------------------------------------------------------------------------------------------------------------
 
 This is a personal portfolio static website, built using HTML and CSS
-The webpage is hosted in github.io,  https://gannag19.github.io/portfolio/
+The webpage is hosted in github.io,  https://github.com/Keerthankumar22/KeerthanKumar.git
 
 This Assignment contains three HTML files, one Images folder and one readme file
 Three HTML files are 
